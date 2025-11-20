@@ -1,4 +1,4 @@
-# 🔗 ShortLink - Professional URL Shortener
+# 🔗 ShortLink - Professional URL Shortener.
 
 A modern, feature-rich URL shortening service built with React, TypeScript, and Vite. ShortLink provides a seamless experience for creating, managing, and tracking shortened URLs with built-in QR code generation and analytics.
 
